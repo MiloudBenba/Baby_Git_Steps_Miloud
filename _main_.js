@@ -6,3 +6,4 @@
     ```
 
     jeVaisMalNommerMonProchaonCommit = 1
+    unicormeMode = 1
